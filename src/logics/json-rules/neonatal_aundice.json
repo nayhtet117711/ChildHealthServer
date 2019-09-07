@@ -1,0 +1,192 @@
+{
+    "name": "Neonatal Jaundice",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Pale stools"
+                },
+                {
+                    "name": "Poor sucking"
+                },
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Pale stools"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Poor sucking"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Pale stools"
+                },
+                {
+                    "name": "Poor sucking"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Dark urine"
+                },
+                {
+                    "name": "Poor sucking"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "May be just sleepy, but one of the signs of Neonatal Jaundice",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Pale stools"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Poor sucking"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Pale stools"
+                },
+                {
+                    "name": "Poor sucking"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Pale stools"
+                },
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Poor sucking"
+                },
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Pale stools"
+                },
+                {
+                    "name": "Poor sucking"
+                },
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal jaundice",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Pale stools"
+                },
+                {
+                    "name": "Dark urine"
+                }
+            ]
+        }
+
+    ]
+}

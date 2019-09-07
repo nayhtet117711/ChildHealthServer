@@ -1,0 +1,109 @@
+{
+    "name": "Down syndrome",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "flat facial features"
+                },
+                {
+                    "name": "small head"
+                },
+                {
+                    "name": "short neck"
+                },
+                {
+                    "name": "eyes that slant upward"
+                },
+                {
+                    "name": "atypically shaped ears"
+                },
+                {
+                    "name": "poor muscle tone"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "flat facial features"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "small head"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "short neck"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "eyes that slant upward"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "atypically shaped ears"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "poor muscle tone"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of down syndrome",
+            "fact": [
+                {
+                    "name": "flat facial features"
+                },
+                {
+                    "name": "small head"
+                },
+                {
+                    "name": "short neck"
+                },
+                {
+                    "name": "eyes that slant upward"
+                },
+                {
+                    "name": "atypically shaped ears"
+                },
+                {
+                    "name": "poor muscle tone"
+                }
+            ]
+        }
+        
+        
+    ]
+}

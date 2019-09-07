@@ -1,0 +1,457 @@
+{
+    "name": "Pneumonia",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "cough that produces mucus"
+                },
+                {
+                    "name": "stuffy nose"
+                },
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "less activity"
+                },
+                {
+                    "name": "loss of appetite"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "cough that produces mucus"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "stuffy nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "less activity"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "fever (over 100 F)"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "fever (over 100 F)"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "cough that produces mucus"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "stuffy nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "less activity"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "breathing with wheezing sounds"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "cough that produces mucus"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "stuffy nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "less activity"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "fever (over 100 F)"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "cough that produces mucus"
+                },
+                {
+                    "name": "stuffy nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "cough that produces mucus"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "cough that produces mucus"
+                },
+                {
+                    "name": "less activity"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "cough that produces mucus"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "cough that produces mucus"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "stuffy nose"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "stuffy nose"
+                },
+                {
+                    "name": "less activity"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "stuffy nose"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "stuffy nose"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "less activity"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "less activity"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "less activity"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Pneumonia",
+            "fact": [
+                {
+                    "name": "loss of appetite"
+                },
+                {
+                    "name": "blurish or gray color of lips and fingernails"
+                }
+            ]
+        }
+
+
+    ]
+}

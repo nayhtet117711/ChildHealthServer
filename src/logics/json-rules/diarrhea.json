@@ -1,0 +1,288 @@
+{
+    "name": "Diarrhea",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                },
+                {
+                    "name": "increased thirsty"
+                },
+                {
+                    "name": "absence of tears when cries"
+                },
+                {
+                    "name": "dry skin, mouth and tongue"
+                },
+                {
+                    "name": "blood or pus in poop or poop is black"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "increased thirsty"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "absence of tears when cries"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "dry skin, mouth and tongue"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "blood or pus in poop or poop is black"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                },
+                {
+                    "name": "increased thirsty"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                },
+                {
+                    "name": "absence of tears when cries"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                },
+                {
+                    "name": "dry skin, mouth and tongue"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                },
+                {
+                    "name": "blood or pus in poop or poop is black"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "declared urination"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "increased thirsty"
+                },
+                {
+                    "name": "absence of tears when cries"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "increased thirsty"
+                },
+                {
+                    "name": "dry skin, mouth and tongue"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "increased thirsty"
+                },
+                {
+                    "name": "blood or pus in poop or poop is black"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "increased thirsty"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "absence of tears when cries"
+                },
+                {
+                    "name": "dry skin, mouth and tongue"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "absence of tears when cries"
+                },
+                {
+                    "name": "blood or pus in poop or poop is black"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "absence of tears when cries"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "dry skin, mouth and tongue"
+                },
+                {
+                    "name": "blood or pus in poop or poop is black"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "absence of tears when cries"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "dry skin, mouth and tongue"
+                },
+                {
+                    "name": "blood or pus in poop or poop is black"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "dry skin, mouth and tongue"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Diarrhea",
+            "fact": [
+                {
+                    "name": "blood or pus in poop or poop is black"
+                },
+                {
+                    "name": "unken soft spot on top of the kid’s head "
+                }
+            ]
+        }
+
+    ]
+}

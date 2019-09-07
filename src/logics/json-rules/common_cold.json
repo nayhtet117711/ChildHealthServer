@@ -1,0 +1,267 @@
+{
+    "name": "Infant down syndrome",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                },
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "headache"
+                },
+                {
+                    "name": "loss of appetite"
+                },
+                {
+                    "name": "fatigue"
+                },
+                {
+                    "name": "mild fever"
+                }
+
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                }
+                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "coughing"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "headache"
+                }            
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "loss of appetite"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "fatigue"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "mild fever"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                },
+                {
+                    "name": "coughing"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                },
+                {
+                    "name": "headache"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                },
+                {
+                    "name": "loss of appetite"
+                }               
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                },
+                {
+                    "name": "fatigue"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "runny nose or sneezing"
+                },
+                {
+                    "name": "mild fever"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "headache"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "loss of appetite"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "fatigue"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "mild fever"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "headache"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "headache"
+                },
+                {
+                    "name": "fatigue"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "headache"
+                },
+                {
+                    "name": "mild fever"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "loss of appetite"
+                },
+                {
+                    "name": "fatigue"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "loss of appetite"
+                },
+                {
+                    "name": "mild fever"
+                }                
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of common cold",
+            "fact": [
+                {
+                    "name": "fatigue"
+                },
+                {
+                    "name": "mild fever"
+                }
+            ]
+        }
+
+        
+    ]
+}

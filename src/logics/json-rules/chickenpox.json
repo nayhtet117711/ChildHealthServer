@@ -1,0 +1,461 @@
+{
+    "name": "Chickenpox",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "inability to wake up"
+                },
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "fast heartrate"
+                },
+                {
+                    "name": "itchy blisters"
+                },
+                {
+                    "name": "trouble breathing"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "rash in one of both eyes "
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "inability to wake up"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "coughing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "fast heartrate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "itchy blisters"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "trouble breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be signs of chickenpox",
+            "fact": [
+                {
+                    "name": "fever (over 101 F)"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "inability to wake up"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "coughing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "fast heartrate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "itchy blisters"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "trouble breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "inability to wake up"
+                },
+                {
+                    "name": "coughing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "inability to wake up"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "rash in one of both eyes "
+                },
+                {
+                    "name": "fast heartrate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "inability to wake up"
+                },
+                {
+                    "name": "itchy blisters"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "inability to wake up"
+                },
+                {
+                    "name": "trouble breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "inability to wake up"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "fast heartrate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "itchy blisters"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "fast heartrate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "itchy blisters"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "trouble breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "fast heartrate"
+                },
+                {
+                    "name": "itchy blisters"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "fast heartrate"
+                },
+                {
+                    "name": "trouble breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "fast heartrate"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "itchy blisters"
+                },
+                {
+                    "name": "trouble breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "itchy blisters"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "may be chickenpox",
+            "fact": [
+                {
+                    "name": "trouble breathing"
+                },
+                {
+                    "name": "muscle tremors"
+                }
+            ]
+        }
+
+
+        
+    ]
+}

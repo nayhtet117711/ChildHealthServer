@@ -42,12 +42,13 @@ const readJsonRules = () => {
 const doJob = (symptoms, ruleList) => {
     return ruleList.reduce((r, rules) => {
         const name = rules.name
-        const result = rules.rules.filter(rule => {
-            if (rule.fact.length !== symptoms.length) return false
+        const result = rules.rules.reduce((rrrrr, rule) => {
+            //if (rule.fact.length !== symptoms.length) return false
             const stage = rule.stage
             const advice = rule.advice
             const emergency = rule.emergency
-            const r = rule.fact.filter(f => {
+
+            const r = rule.fact.reduce((rrr,f) => {
                 const {
                     name,
                     operator = OPERATOR.equal,
@@ -67,14 +68,26 @@ const doJob = (symptoms, ruleList) => {
                     else if (operator === OPERATOR.betweenInclusive) return s.value >= value1 && s.value <= value2
                     else return false
                 })
-                return s.length > 0
-            })
-            return r.length === rule.fact.length
-        })
+                
+                if(s.length ===0) return rrr
+                else {
+                    return [...rrr, s[0] ]
+                }
+            }, [])
+            if(r.length>0) {
+                return [...rrrrr, { name, fact : r}]
+            } else return rrrrr
+        }, [])
+
         if (result.length > 0) {
+            result.sort((l,r)=> r.fact.length-l.fact.length )
+        
             const found = result[0]
-            return ({ name, stage: found.stage, advice: found.advice, emergency: found.emergency })
-        } else return null
+            const foundRule = ({ name, stage: found.stage, advice: found.advice, emergency: found.emergency, fact: found.fact })
+            if(r===null) return foundRule
+            else if(foundRule.fact.length>r.fact.length) return foundRule
+            else return r
+        } else return r
     }, null)
 }
 

@@ -1,0 +1,499 @@
+{
+    "name": "First signs of flu",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "fever, chills or body shake"
+                },
+                {
+                    "name": "headache or muscle or body aches"
+                },
+                {
+                    "name": "Runny or stuff nose"
+                },
+                {
+                    "name": "Sore throat"
+                },
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "fever, chills or body shake"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "headache or muscle or body aches"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "Runny or stuff nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "Sore throat"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "one of the first signs of flu",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "coughing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "fever, chills or body shake"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "headache or muscle or body aches"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "Runny or stuff nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "Sore throat"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "seems very tired"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "fever, chills or body shake"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "headache or muscle or body aches"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "Runny or stuff nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "Sore throat"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "coughing"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever, chills or body shake"
+                },
+                {
+                    "name": "headache or muscle or body aches"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever, chills or body shake"
+                },
+                {
+                    "name": "Runny or stuff nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever, chills or body shake"
+                },
+                {
+                    "name": "Sore throat"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever, chills or body shake"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever, chills or body shake"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "headache or muscle or body aches"
+                },
+                {
+                    "name": "Runny or stuff nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "headache or muscle or body aches"
+                },
+                {
+                    "name": "Sore throat"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "headache or muscle or body aches"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "headache or muscle or body aches"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Runny or stuff nose"
+                },
+                {
+                    "name": "Sore throat"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Runny or stuff nose"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Runny or stuff nose"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Sore throat"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Sore throat"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 3,
+            "advice": "This sis emergency",
+            "fact": [
+                {
+                    "name": "being so fussy"
+                }
+            ]
+        },
+        {
+            "stage": 3,
+            "advice": "This sis emergency",
+            "fact": [
+                {
+                    "name": "blueish or grey skin"
+                }
+            ]
+        },
+        {
+            "stage": 3,
+            "advice": "This sis emergency",
+            "fact": [
+                {
+                    "name": "fever with a rash"
+                }
+            ]
+        },
+        {
+            "stage": 3,
+            "advice": "This sis emergency",
+            "fact": [
+                {
+                    "name": "not drinking"
+                }
+            ]
+        },
+        {
+            "stage": 3,
+            "advice": "This sis emergency",
+            "fact": [
+                {
+                    "name": "not walking up or not  interacting with you"
+                }
+            ]
+        },
+        {
+            "stage": 3,
+            "advice": "This sis emergency",
+            "fact": [
+                {
+                    "name": "vomiting does not stop"
+                }
+            ]
+        }
+
+        
+    ]
+}

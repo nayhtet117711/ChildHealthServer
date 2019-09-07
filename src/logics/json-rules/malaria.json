@@ -1,0 +1,478 @@
+{
+    "name": "Malaria",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "cough and cold"
+                },
+                {
+                    "name": "irritability and drowsiness"
+                },
+                {
+                    "name": "diarrhea, often with green stool"
+                },
+                {
+                    "name": "sleeplessness"
+                },
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "cough and cold"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "irritability and drowsiness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "diarrhea, often with green stool"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "shivering"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "cough and cold"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "irritability and drowsiness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "diarrhea, often with green stool"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "high fever"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "cough and cold"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "irritability and drowsiness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "diarrhea, often with green stool"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "shivering"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "cough and cold"
+                },
+                {
+                    "name": "irritability and drowsiness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "cough and cold"
+                },
+                {
+                    "name": "diarrhea, often with green stool"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "cough and cold"
+                },
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "cough and cold"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "cough and cold"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "irritability and drowsiness"
+                },
+                {
+                    "name": "diarrhea, often with green stool"
+                },
+                {
+                    "name": "sleeplessness"
+                },
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "irritability and drowsiness"
+                },
+                {
+                    "name": "diarrhea, often with green stool"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "irritability and drowsiness"
+                },
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "irritability and drowsiness"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "irritability and drowsiness"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "diarrhea, often with green stool"
+                },
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "diarrhea, often with green stool"
+                },
+                {
+                    "name": "sleeplessness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "diarrhea, often with green stool"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "diarrhea, often with green stool"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "sleeplessness"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "sleeplessness"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Sign of Malaria",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "seizures"
+                }
+            ]
+        }
+
+
+    ]
+}

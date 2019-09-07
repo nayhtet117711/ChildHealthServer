@@ -1,0 +1,152 @@
+{
+    "name": "Neonatal Anemia",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Low blood pressure"
+                },
+                {
+                    "name": "High heart rate"
+                },
+                {
+                    "name": "Seems sleepy"
+                },
+                {
+                    "name": "Have apnea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the sign of Anemia",
+            "fact": [
+                {
+                    "name": "Low blood pressure"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the sign of Anemia",
+            "fact": [
+                {
+                    "name": "High heart rate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the sign of Anemia",
+            "fact": [
+                {
+                    "name": "Seems sleepy"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the sign of Anemia",
+            "fact": [
+                {
+                    "name": "Have apnea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Low blood pressure"
+                },
+                {
+                    "name": "High heart rate"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Low blood pressure"
+                },
+                {
+                    "name": "Seems sleepy"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Low blood pressure"
+                },
+                {
+                    "name": "Have apnea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "High heart rate"
+                },
+                {
+                    "name": "Seems sleepy"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "High heart rate"
+                },
+                {
+                    "name": "Have apnea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Seems sleepy"
+                },
+                {
+                    "name": "Have apnea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "Low blood pressure"
+                },
+                {
+                    "name": "High heart rate"
+                },
+                {
+                    "name": "Seems sleepy"
+                },
+                {
+                    "name": "Have apnea"
+                }
+            ]
+        }
+
+        
+        
+    ]
+}

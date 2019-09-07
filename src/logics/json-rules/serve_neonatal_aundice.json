@@ -1,0 +1,164 @@
+{
+    "name": "Serve Neonatal Jaundice",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Inability to gain weight"
+                },
+                {
+                    "name": "Irritability"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Drowsiness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Inability to gain weight"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Irritability"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Inability to gain weight"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Irritability"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Inability to gain weight"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Irritability"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Inability to gain weight"
+                },
+                {
+                    "name": "Irritability"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Inability to gain weight"
+                },
+                {
+                    "name": "Irritability"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Yellow abdomen or limbs"
+                },
+                {
+                    "name": "Drowsiness"
+                },
+                {
+                    "name": "Inability to gain weight"
+                },
+                {
+                    "name": "Irritability"
+                }
+            ]
+        }
+    ]
+}

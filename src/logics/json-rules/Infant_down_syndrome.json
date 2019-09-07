@@ -1,0 +1,62 @@
+{
+    "name": "Infant down syndrome",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "impulsive behavior"
+                },
+                {
+                    "name": "poor judgement"
+                },
+                {
+                    "name": "short attention span"
+                },
+                {
+                    "name": "slow learning capabilities"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "impulsive behavior"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "poor judgement"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "short attention span"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "slow learning capabilities"
+                }
+            ]
+        }
+
+
+        
+    ]
+}

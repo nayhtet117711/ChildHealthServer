@@ -2,9 +2,20 @@ const express = require("express")
 const path = require("path")
 const bodyParser = require("body-parser")
 const routeIndex = require("./src/routes/routeIndex")
+const mysql = require('mysql')
+const expressMyConnection = require('express-myconnection')
 
 const app = express()
 const port = 3333
+
+const mysqlOptions = {
+  host: 'localhost',
+  user: 'user125',
+  password: 'root',
+  database: 'hospitaldb'
+}
+
+app.use(expressMyConnection(mysql, mysqlOptions, 'single'))
 
 app.use("/images", express.static(path.join(__dirname, "uploaded-images")))
 app.use(bodyParser.urlencoded({ extended: true }))

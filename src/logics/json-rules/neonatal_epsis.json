@@ -1,0 +1,181 @@
+{
+    "name": "Neonatal Epsis",
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Body temp changes"
+                },
+                {
+                    "name": "Breathing problem"
+                },
+                {
+                    "name": "Diarrhea"
+                },
+                {
+                    "name": "Reduced movements"
+                },
+                {
+                    "name": "Seizures"
+                },
+                {
+                    "name": "Swollen belly area"
+                },
+                {
+                    "name": "Vomiting"
+                },
+                {
+                    "name": "Hemorrhagic rash"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Body temp changes"
+                },
+                {
+                    "name": "Breathing problem"
+                },
+                {
+                    "name": "Diarrhea"
+                },
+                {
+                    "name": "Reduced movements"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "You really need to go to the hospital",
+            "fact": [
+                {
+                    "name": "Seizures"
+                },
+                {
+                    "name": "Swollen belly area"
+                },
+                {
+                    "name": "Vomiting"
+                },
+                {
+                    "name": "Hemorrhagic rash"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Body temp changes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Breathing problem"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Reduced movements"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Seizures"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Swollen belly area"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "One of the signs of neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Hemorrhagic rash"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Seizures"
+                },
+                {
+                    "name": "Swollen belly area"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Seizures"
+                },
+                {
+                    "name": "Vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Signs of Neonatal Sepsis",
+            "fact": [
+                {
+                    "name": "Swollen belly area"
+                },
+                {
+                    "name": "Vomiting"
+                }
+            ]
+        }
+
+        
+    ]
+}
