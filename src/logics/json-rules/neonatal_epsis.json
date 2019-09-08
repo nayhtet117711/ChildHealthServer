@@ -1,5 +1,6 @@
 {
     "name": "Neonatal Epsis",
+    "childAge": ["1_to_28_days"],
     "rules": [
         {
             "stage": 1,

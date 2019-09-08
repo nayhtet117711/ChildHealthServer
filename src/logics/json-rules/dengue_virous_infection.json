@@ -1,5 +1,6 @@
 {
     "name": "Dengue Virus Infection",
+    "childAge": ["1_to_12_months"],
     "rules": [
         {
             "stage": 1,

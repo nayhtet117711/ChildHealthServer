@@ -1,5 +1,6 @@
 {
     "name": "Down syndrome",
+    "childAge": ["1_to_28_days", "1_to_12_months"],
     "rules": [
         {
             "stage": 1,

@@ -11,16 +11,18 @@ const OPERATOR = {
     betweenInclusive: ">=<=",
 }
 
-const run = (symptoms) => {
+const run = (childAge, symptoms) => {
     const rules = readJsonRules()
 
-    const result = doJob(symptoms, rules)
+    const result = doJob(childAge, symptoms, rules)
     return ({ result })
 }
 
-const readSymptomList = () => {
+const readSymptomList = (childAge) => {
     const rules = readJsonRules()
     return rules.reduce((r, rfile) => {
+        const isFromAgeList = rfile.childAge.filter(vv => vv===childAge)
+        if(isFromAgeList.length===0) return r
         return [...r, ...rfile.rules.reduce((r, rule) => {
             return [...r, ...rule.fact.map(f => ({ name: f.name, type: f.value1 ? "integer" : "boolean" }))]
         }, [])
@@ -39,9 +41,11 @@ const readJsonRules = () => {
     return ruleList
 }
 
-const doJob = (symptoms, ruleList) => {
+const doJob = (childAge, symptoms, ruleList) => {
     return ruleList.reduce((r, rules) => {
         const name = rules.name
+        const isFromAgeList = rules.childAge.filter(vv => vv===childAge)
+        if(isFromAgeList.length===0) return r
         const result = rules.rules.reduce((rrrrr, rule) => {
             //if (rule.fact.length !== symptoms.length) return false
             const stage = rule.stage

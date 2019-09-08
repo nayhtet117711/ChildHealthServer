@@ -1,5 +1,6 @@
 {
     "name": "First signs of flu",
+    "childAge": ["1_to_12_months"],
     "rules": [
         {
             "stage": 1,
