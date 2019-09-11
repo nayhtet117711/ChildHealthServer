@@ -1,0 +1,363 @@
+{
+    "name": "Urinary Tract Infection",
+    "childAge": ["1_to_3_years"],
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "nausea"
+                },
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "nausea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "foul smelling and cloudy pee"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "fever"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "nausea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning or pain when he/she pees"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "fever"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "nausea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "nausea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "foul smelling and cloudy pee"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "nausea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "nausea"
+                },
+                {
+                    "name": "vomiting"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "nausea"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "nausea"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "vomiting"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "only peeing a few drops"
+                }
+            ]
+        }
+
+
+
+    ]
+}

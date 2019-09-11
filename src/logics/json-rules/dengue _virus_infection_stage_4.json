@@ -1,0 +1,38 @@
+{
+    "name": "Dengue Virus Infection Stage 4",
+    "childAge": ["1_to_12_months","1_to_12_months", "1_to_3_years", "3_to_12_years"],
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "Go to the hospital right now. This is EMERGENCY",
+            "fact": [
+                {
+                    "name": "cannot detect both the blood pressure and heart pulse"
+                },
+                {
+                    "name": "dark-blue coloured skin and lips"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Go to the hospital right now. This is EMERGENCY",
+            "fact": [
+                {
+                    "name": "cannot detect both the blood pressure and heart pulse"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "Go to the hospital right now. This is EMERGENCY",
+            "fact": [
+                {
+                    "name": "dark-blue coloured skin and lips"
+                }
+            ]
+        }
+
+
+    ]
+}

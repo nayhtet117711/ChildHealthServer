@@ -1,0 +1,326 @@
+{
+    "name": "Pink eye",
+    "childAge": ["1_to_3_years"],
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "swollen conjunction"
+                },
+                {
+                    "name": "more tears than usual"
+                },
+                {
+                    "name": "thick yellow/green/white discharge that crusts over eyelashes"
+                },
+                {
+                    "name": "itchy eyes"
+                },
+                {
+                    "name": "burning eyes"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen conjunction"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "more tears than usual"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "thick yellow/green/white discharge that crusts over eyelashes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "itchy eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "swollen conjunction"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "more tears than usual"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "thick yellow/green/white discharge that crusts over eyelashes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "itchy eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "burning eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "redness in the white of the eye or inner eyelid"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen conjunction"
+                },
+                {
+                    "name": "more tears than usual"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen conjunction"
+                },
+                {
+                    "name": "thick yellow/green/white discharge that crusts over eyelashes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen conjunction"
+                },
+                {
+                    "name": "itchy eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen conjunction"
+                },
+                {
+                    "name": "burning eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "swollen conjunction"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "more tears than usual"
+                },
+                {
+                    "name": "thick yellow/green/white discharge that crusts over eyelashes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "more tears than usual"
+                },
+                {
+                    "name": "itchy eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "more tears than usual"
+                },
+                {
+                    "name": "burning eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "more tears than usual"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "thick yellow/green/white discharge that crusts over eyelashes"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "itchy eyes"
+                },
+                {
+                    "name": "burning eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "itchy eyes"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "burning eyes"
+                },
+                {
+                    "name": "swollen lymph nodes"
+                }
+            ]
+        }
+
+
+    ]
+}

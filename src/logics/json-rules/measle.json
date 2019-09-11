@@ -1,0 +1,193 @@
+{
+    "name": "Measle",
+    "childAge": ["1_to_12_months","1_to_12_months", "1_to_3_years", "3_to_12_years"],
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "dry cough"
+                },
+                {
+                    "name": "runny nose"
+                },
+                {
+                    "name": "inflamed eyes"
+                },
+                {
+                    "name": "tiny white spots with blurish-white centers on a red background found"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "dry cough"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "runny nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "inflamed eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "tiny white spots with blurish-white centers on a red background found"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "dry cough"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "runny nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "inflamed eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "tiny white spots with blurish-white centers on a red background found"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "dry cough"
+                },
+                {
+                    "name": "runny nose"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "dry cough"
+                },
+                {
+                    "name": "inflamed eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "dry cough"
+                },
+                {
+                    "name": "tiny white spots with blurish-white centers on a red background found"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "runny nose"
+                },
+                {
+                    "name": "inflamed eyes"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "runny nose"
+                },
+                {
+                    "name": "tiny white spots with blurish-white centers on a red background found"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "inflamed eyes"
+                },
+                {
+                    "name": "tiny white spots with blurish-white centers on a red background found"
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Dengue Virus Infection Stage 1",
+    "childAge": ["1_to_12_months","1_to_12_months", "1_to_3_years", "3_to_12_years"],
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "high fever from 3 to 7 days"
+                },
+                {
+                    "name": "rashes on skin"
+                },
+                {
+                    "name": "red spots or patches on skin"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "high fever from 3 to 7 days"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "rashes on skin"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "red spots or patches on skin"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "high fever from 3 to 7 days"
+                },
+                {
+                    "name": "rashes on skin"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "high fever from 3 to 7 days"
+                },
+                {
+                    "name": "red spots or patches on skin"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "rashes on skin"
+                },
+                {
+                    "name": "red spots or patches on skin"
+                }
+            ]
+        }
+
+
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "name": "Pneumonia",
-    "childAge": ["1_to_12_months"],
+    "childAge": ["1_to_12_months","1_to_12_months", "1_to_3_years", "3_to_12_years"],
     "rules": [
         {
             "stage": 1,

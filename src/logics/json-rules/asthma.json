@@ -1,0 +1,134 @@
+{
+    "name": "Asthma",
+    "childAge": ["3_to_12_years"],
+    "rules": [
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "frequent coughing"
+                },
+                {
+                    "name": "whistling or wheezing when breathing"
+                },
+                {
+                    "name": "chest congestion or tightness"
+                },
+                {
+                    "name": "trouble breathing or shortness of breath"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "frequent coughing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "whistling or wheezing when breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "chest congestion or tightness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "trouble breathing or shortness of breath"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "frequent coughing"
+                },
+                {
+                    "name": "whistling or wheezing when breathing"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "frequent coughing"
+                },
+                {
+                    "name": "chest congestion or tightness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "frequent coughing"
+                },
+                {
+                    "name": "trouble breathing or shortness of breath"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "whistling or wheezing when breathing"
+                },
+                {
+                    "name": "chest congestion or tightness"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "whistling or wheezing when breathing"
+                },
+                {
+                    "name": "trouble breathing or shortness of breath"
+                }
+            ]
+        },
+        {
+            "stage": 1,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "chest congestion or tightness"
+                },
+                {
+                    "name": "trouble breathing or shortness of breath"
+                }
+            ]
+        }
+
+
+    ]
+}

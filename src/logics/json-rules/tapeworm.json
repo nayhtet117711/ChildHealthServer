@@ -1,0 +1,194 @@
+{
+    "name": "Tapeworm",
+    "childAge": ["1_to_3_years"],
+    "rules": [
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "mild nausea"
+                },
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "abdominal pain"
+                },
+                {
+                    "name": "weight loss"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "mild nausea"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "abdominal pain"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "weight loss"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "mild nausea"
+                },
+                {
+                    "name": "diarrhea"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "mild nausea"
+                },
+                {
+                    "name": "abdominal pain"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "mild nausea"
+                },
+                {
+                    "name": "weight loss"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "mild nausea"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "abdominal pain"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "weight loss"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "abdominal pain"
+                },
+                {
+                    "name": "weight loss"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "abdominal pain"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        },
+        {
+            "stage": 2,
+            "advice": "",
+            "fact": [
+                {
+                    "name": "weight loss"
+                },
+                {
+                    "name": "loss of appetite"
+                }
+            ]
+        }
+
+
+    ]
+}
