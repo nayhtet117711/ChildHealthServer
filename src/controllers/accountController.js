@@ -10,12 +10,17 @@ const login = (req, res) => {
         if(err) res.json(errResponse(err))
         else {
             con.query("select * from account where username=? and password=?", [ loginAccount.username, loginAccount.password ], (error, results) => {
-                if(error) res.json(errResponse(error))
+                console.log({ error, results })
+                if(error) {
+                    console.log(errResponse(error))
+                    res.json(errResponse(error))
+                }
                 else if(results.length >0) {
                     const userAccount = {
                         username: results[0].username,
                         name: results[0].name,
                         phone: results[0].phone,
+                        role: results[0].role
                     }
                     res.json(response({  
                         payload: { userAccount }
@@ -33,6 +38,7 @@ const register = (req, res) => {
         password: req.body.password,
         name: req.body.name,
         phone: req.body.phone,
+        role: "user"
     }
     req.getConnection((err, con) => {
         if(err) res.json(errResponse(err))

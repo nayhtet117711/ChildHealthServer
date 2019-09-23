@@ -1,5 +1,5 @@
 const express = require("express")
-const { expertSystem, readSymptomList } = require("../controllers/expertController")
+const { expertSystem, readSymptomList, test } = require("../controllers/expertController")
 
 const router = express.Router()
 
@@ -15,5 +15,7 @@ router.get("/", (req, res) => res.send("Welcome to the API."))
 router.get("/symptoms", readSymptomList)
 
 router.post("/experts", expertSystem)
+
+router.get("/test", test)
 
 module.exports = router
