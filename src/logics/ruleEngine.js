@@ -228,6 +228,8 @@ const readJsonRules = () => {
 const doJob = (childAge, symptoms, ruleList) => {
     return ruleList.reduce((r, rules) => {
         const name = rules.name
+        const ruleFact = rules.rules[0].fact
+        
         const isFromAgeList = rules.childAge.filter(vv => vv === childAge)
         if (isFromAgeList.length === 0) return r
         const result = rules.rules.reduce((rrrrr, rule) => {
@@ -271,7 +273,11 @@ const doJob = (childAge, symptoms, ruleList) => {
             result.sort((l, r) => r.fact.length - l.fact.length)
 
             const found = result[0]
-            const foundRule = ({ name, stage: found.stage, advice: found.advice, emergency: found.emergency, fact: found.fact })
+            // console.log(ruleFact)
+            // console.log("\n----------------------\n")
+            // console.log(found.fact)
+            // const foundRule = ({ name, stage: found.stage, advice: found.advice, emergency: found.emergency, fact: found.fact })
+            const foundRule = ({ name, stage: found.stage, advice: found.advice, emergency: found.emergency, fact: ruleFact })
             if (r === null) return foundRule
             else if (foundRule.fact.length > r.fact.length) return foundRule
             else return r
