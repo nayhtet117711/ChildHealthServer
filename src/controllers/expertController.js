@@ -24,6 +24,28 @@ const readSymptomList = (req, res) => {
     });
 }
 
+const readDiseaseList = (req, res) => {
+    engine.readDiseaseList(req, diseaseList => {
+        res.json(response({
+            payload: diseaseList
+        }))
+    });
+}
+
+const createDieaseAndFactList = (req, res) => {
+    const diseaseName = req.body.diseaseName
+    const childAge = req.body.childAge
+    const factList = req.body.factList
+
+    console.log(req.body)
+
+    engine.createDieaseAndFactList(diseaseName, childAge, factList, req, (message) => {
+        return res.json(response({
+            message
+        }));
+    })
+
+}
 
 const test = (req, res) => {
     engine.readRulesFromDatabase(req, res)
@@ -32,5 +54,7 @@ const test = (req, res) => {
 module.exports = {
     expertSystem,
     readSymptomList,
-    test
+    readDiseaseList,
+    createDieaseAndFactList,
+    test,
 }

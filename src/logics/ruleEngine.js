@@ -34,13 +34,13 @@ const readRulesFromDatabase = (req, callback) => {
                                 .map(v3 => {
                                     const V2 = { ...v3 }
                                     V2.fact = factList.filter(v4 => v4.ruleName === v3.ruleName && v4.ruleItemId === v3.id)
-                                    .map(v5 => (
-                                        { 
-                                            name: v5.name, 
-                                            operator: v5.operator==="undefined" ? undefined : v5.operator,
-                                            value1: v5.value1==="undefined" ? undefined : v5.value1,
-                                            value2: v5.value2==="undefined" ? undefined : v5.value2,
-                                        }))
+                                        .map(v5 => (
+                                            {
+                                                name: v5.name,
+                                                operator: v5.operator === "undefined" ? undefined : v5.operator,
+                                                value1: v5.value1 === "undefined" ? undefined : v5.value1,
+                                                value2: v5.value2 === "undefined" ? undefined : v5.value2,
+                                            }))
                                     return V2
                                 })
 
@@ -140,6 +140,80 @@ const readSymptomList = (childAge, req, callback) => {
     // }, [])
 }
 
+const readDiseaseList = (req, callback) => {
+    readRulesFromDatabase(req, rules => {
+        const diseaseList = rules.map(v => v.name)
+        callback(diseaseList)
+    })
+}
+
+createDieaseAndFactList = (diseaseName, childAge, factList, req, callback) => {
+   
+    readDiseaseList(req, diseaseList => {
+        const exists = diseaseList.filter(v => v === diseaseName).length > 0
+
+        if (!exists) {
+            req.getConnection((err, con) => {
+                if (err) res.json(errResponse(err))
+                else {
+                    const query1 = `insert into rule(name, childAge) values('${diseaseName}', '${childAge}')`
+                    con.query(query1, (error1, results1) => {
+                        const diseaseId = results1.insertId
+
+                        const query2 = `insert into ruleItem(ruleName, stage, advice) values('${diseaseName}', 1, '')`
+                        con.query(query2, (error2, results2) => {
+                            // console.log(error1, results2)
+                            const ruleId = results2.insertId
+
+                            const insQuery = factList.reduce((r,c,i) => {
+                                if(i===0) return r+`('${diseaseName}', ${ruleId}, '${c}')`
+                                else return r+`,('${diseaseName}', ${ruleId}), '${c}')`
+                            }, "")
+
+                            // console.log("insQuery: ", insQuery)
+
+                            const query3 = `insert into fact(ruleName, ruleItemId, name) values ${insQuery}`
+                            con.query(query3, (error3, results3) => {
+                                console.log("2: ", error3, results3)
+                                callback("Rule is added success fully.")
+                            })
+
+                        })
+
+                    })
+                }
+            })
+        }
+        else {
+            req.getConnection((err, con) => {
+                if (err) res.json(errResponse(err))
+                else {
+                    const query2 = `insert into ruleItem(ruleName, stage, advice) values('${diseaseName}', 1, '')`
+                        con.query(query2, (error2, results2) => {
+                            // console.log(error1, results2)
+                            const ruleId = results2.insertId
+
+                            const insQuery = factList.reduce((r,c,i) => {
+                                if(i===0) return r+`('${diseaseName}', ${ruleId}, '${c}')`
+                                else return r+`,('${diseaseName}', ${ruleId}, '${c}')`
+                            }, "")
+
+                            // console.log("insQuery: ", insQuery)
+
+                            const query3 = `insert into fact(ruleName, ruleItemId, name) values ${insQuery}`
+                            con.query(query3, (error3, results3) => {
+                                console.log("2: ", error3, results3)
+                                callback("Rule is added success fully.")
+                            })
+
+                        })
+                }
+            })
+        }
+
+    })
+}
+
 const readJsonRules = () => {
     const ruleFiles = fs.readdirSync(path.join(__dirname, "json-rules"))
     const ruleList = ruleFiles.reduce((r, f) => {
@@ -205,4 +279,4 @@ const doJob = (childAge, symptoms, ruleList) => {
     }, null)
 }
 
-module.exports = { run, readSymptomList, readRulesFromDatabase }
+module.exports = { run, readSymptomList, readRulesFromDatabase, readDiseaseList, createDieaseAndFactList }
