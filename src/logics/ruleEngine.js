@@ -159,22 +159,24 @@ createDieaseAndFactList = (diseaseName, childAge, factList, req, callback) => {
                     const query1 = `insert into rule(name, childAge) values('${diseaseName}', '${childAge}')`
                     con.query(query1, (error1, results1) => {
                         const diseaseId = results1.insertId
+                        // console.log("0", error1, results1)
 
                         const query2 = `insert into ruleItem(ruleName, stage, advice) values('${diseaseName}', 1, '')`
                         con.query(query2, (error2, results2) => {
-                            // console.log(error1, results2)
+                            // console.log("1", error2, results2)
                             const ruleId = results2.insertId
 
                             const insQuery = factList.reduce((r,c,i) => {
+                                // console.log("loop: ", i, c, r)
                                 if(i===0) return r+`('${diseaseName}', ${ruleId}, '${c}')`
-                                else return r+`,('${diseaseName}', ${ruleId}), '${c}')`
+                                else return r+`,('${diseaseName}', ${ruleId}, '${c}')`
                             }, "")
 
-                            // console.log("insQuery: ", insQuery)
+                            // console.log("insQuery: ", insQuery, factList)
 
                             const query3 = `insert into fact(ruleName, ruleItemId, name) values ${insQuery}`
                             con.query(query3, (error3, results3) => {
-                                console.log("2: ", error3, results3)
+                                // console.log("2: ", error3, results3)
                                 callback("Rule is added success fully.")
                             })
 
@@ -202,7 +204,7 @@ createDieaseAndFactList = (diseaseName, childAge, factList, req, callback) => {
 
                             const query3 = `insert into fact(ruleName, ruleItemId, name) values ${insQuery}`
                             con.query(query3, (error3, results3) => {
-                                console.log("2: ", error3, results3)
+                                // console.log("2: ", error3, results3)
                                 callback("Rule is added success fully.")
                             })
 
