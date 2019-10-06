@@ -241,15 +241,22 @@ const doJob = (childAge, symptoms, ruleList) => {
             const emergency = rule.emergency
 
             const r = rule.fact.reduce((rrr, f) => {
-                const {
-                    name,
-                    operator = OPERATOR.equal,
-                    value1 = true,
-                    value2 = null
-                } = f
+                // const {
+                //     name,
+                //     operator = OPERATOR.equal,
+                //     value1 = true,
+                //     value2 = null
+                // } = f
+                
+                const name = f.name
+                const operator = (f.operator===null || f.operator===undefined) ? OPERATOR.equal : f.operator
+                const value1 = (f.value1===null || f.value1===undefined) ? true : f.value1
+                const value2 = (f.value2===null || f.value2===undefined) ? null : f.value2
+                
                 const s = symptoms.filter(ss => {
+                    // console.log("-----------------------> ", )
                     const s = { ...ss }
-                    s.value = s.value === undefined ? true : s.value
+                    s.value = s.value === undefined? true : s.value
                     if (s.name != name) return false
                     else if (operator === OPERATOR.equal) return s.value === value1
                     else if (operator === OPERATOR.lessThan) return s.value < value1
@@ -270,7 +277,7 @@ const doJob = (childAge, symptoms, ruleList) => {
                 return [...rrrrr, { name, fact: r }]
             } else return rrrrr
         }, [])
-
+        // console.log(result)
         if (result.length > 0) {
             result.sort((l, r) => r.fact.length - l.fact.length)
 
