@@ -1,0 +1,15 @@
+1-->> Open MySQl Workbench 
+2-->> Click "New Query Tab" in menu "File"
+3-->> Paste the following queries in the query editor
+4-->> Click "Execute" button which is the one with yellow flash icon
+
+
+USE hospitaldb;
+CREATE TABLE `record` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(4500) NOT NULL,
+  `disease` varchar(4500) NOT NULL,
+  `datee` varchar(4500) NOT NULL,
+  `childage` varchar(4500) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=latin1;

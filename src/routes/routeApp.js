@@ -1,5 +1,5 @@
 const express = require("express")
-const { expertSystem, readSymptomList, readDiseaseList, createDieaseAndFactList } = require("../controllers/expertController")
+const { expertSystem, readSymptomList, readDiseaseList, createDieaseAndFactList, record } = require("../controllers/expertController")
 
 const router = express.Router()
 
@@ -19,6 +19,8 @@ router.post("/experts", expertSystem)
 router.get("/diseases", readDiseaseList)
 
 router.post("/diseases", createDieaseAndFactList)
+
+router.get("/records", record)
 
 // router.get("/test", test)
 
